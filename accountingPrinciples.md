@@ -21,3 +21,7 @@
   * When the company receives cash -> debit the cash account
   * Revenues accounts are credited when the company earnes a fee, regardless of whether cash is received at the time.
   * Expenses are (almost) always debited.
+
+## Debits and Credits
+ * Accounts increase with a **Debit** Dividends Expenses Assets Losses
+ * Accounts increase with a **Credit** Gains Income Revenus Liabilities Stockholders' equity
