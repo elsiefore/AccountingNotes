@@ -25,3 +25,5 @@
 ## Debits and Credits
  * Accounts increase with a **Debit** Dividends Expenses Assets Losses
  * Accounts increase with a **Credit** Gains Income Revenus Liabilities Stockholders' equity
+ 
+## Bookkeeping
