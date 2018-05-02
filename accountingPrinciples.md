@@ -15,3 +15,9 @@
   * Liability - Payables, Uneared/deferred revenue
   * Stockholders' (or owner's) equity - the difference between the asset amounts and the liability amounts
 * Statement of Cash Flows
+* Double entry
+* Basic accounting equation: Assets = Liabilities + Stockholders' Equity
+  * Debit the left, credit the right.
+  * When the company receives cash -> debit the cash account
+  * Revenues accounts are credited when the company earnes a fee, regardless of whether cash is received at the time.
+  * Expenses are (almost) always debited.
