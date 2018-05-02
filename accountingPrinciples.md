@@ -27,3 +27,5 @@
  * Accounts increase with a **Credit** Gains Income Revenus Liabilities Stockholders' equity
  
 ## Bookkeeping
+ * **Accrued**: Not yet happened
+ * **Deferred**: Already happened, but deferred to next accounting period.
