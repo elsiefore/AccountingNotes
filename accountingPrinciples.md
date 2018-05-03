@@ -43,12 +43,12 @@
  	* 1: Nothing has been entered in the accounting records for certain expenses or revenues, but those expenses and/or revenues did occur and must be included in the current period's income statement and balance sheet.
 	* 2: Something has already been entered in the accounting records, but the amount needs to be divided up between two or more accounting periods.
 	
-  * Adjusting entries involve:
+ * Adjusting entries involve:
 	* Balance sheet account (Interest Payable, Prepaid Insurance, Accounts Receivable, etc.)
 	* Income statement account (Interest Expense, Insurance Expense, Service Revenues etc.)
 	* Related accounts: Allowance for doubtful accounts, accumulated depreciation - equipment, unearned revenue
 
-  * Accurals and Deferrals
+ * Accurals and Deferrals
   	* Accurals: for scenario 1.
 	* Deferrals: for scenario 2.
 	* Examples: 
@@ -58,9 +58,28 @@
 ## Financial Statements
  * Accrual basis of accounting will result in the following accounts being created:
     * Accounts Receivable
-				* Interest Receivable
-				* Prepaid Expenses
-				* Accounts Payable
-				* Accrued Expenses Payable
-				* Deferred Revenues
-				
+    * Interest Receivable
+	* Prepaid Expenses
+	* Accounts Payable
+	* Accrued Expenses Payable
+	* Deferred Revenues
+	
+ * Income Statement
+ 	* Revenues
+	* Expenses
+	* Gains and Losses
+	* Gross Profit: for retailer or manufacturer, gross profit = net sales - cost of goods sold.
+	
+ * Statement of Comprehensive Income
+ 	* Unrealized gains or losses on derivatives used in hedging
+	* Unrealized gains or losses on pension and postretirement liabilities
+	* Foreign currency translation adjustments
+	* Included in accumulated other comprehensive income, a separate item within stockholders' equity.
+	
+ * Balance Sheet
+ 	* **Working Capital** = current assets - currency liabilities
+	* **Current ratio** = currenct assets/current liabilities
+	* Working capital and current ratio are indicators of the corporation's ability to pay its obligations.
+  * Statement of Stockholders' Equity
+  * Statement of Cash Flows (SCF)
+  	* Cash flow from operating activities, investing activities, financing activities.
