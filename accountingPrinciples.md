@@ -20,7 +20,7 @@
   * Debit the left, credit the right.
   * When the company receives cash -> debit the cash account
   * Revenues accounts are credited when the company earnes a fee, regardless of whether cash is received at the time.
-  * Expenses are (almost) always debited.
+  * **Expenses are (almost) always debited.**
 
 ## Debits and Credits
  * Accounts increase with a **Debit** Dividends Expenses Assets Losses
@@ -29,3 +29,20 @@
 ## Bookkeeping
  * **Accrued**: Not yet happened
  * **Deferred**: Already happened, but deferred to next accounting period.
+
+## Accounting Equation
+ * Assets = Liabilities + Owners'/Stockholders' Equity
+ * Net income affects owner's equity
+ * Expanded Accounting Equation for a Sole Proprietorship:
+    * Assets = Liabilities + Owner's Capital + Revenues - Expenses - Owner's Draws
+ * Expanded Accounting Equation for a Corporation:
+    * Assets = Liabilities + Paid-in Capital + Revenues - Expenses - Dividend - Treasury Stock
+
+## Financial Statements
+ * Accrual basis of accounting will result in the following accounts being created:
+    * Accounts Receivable
+				* Interest Receivable
+				* Prepaid Expenses
+				* Accounts Payable
+				* Accrued Expenses Payable
+				* Deferred Revenues
