@@ -38,6 +38,23 @@
  * Expanded Accounting Equation for a Corporation:
     * Assets = Liabilities + Paid-in Capital + Revenues - Expenses - Dividend - Treasury Stock
 
+## Adjusting Entries
+ * Two scenarios where adjusting journal entries are needed:
+ 	* 1: Nothing has been entered in the accounting records for certain expenses or revenues, but those expenses and/or revenues did occur and must be included in the current period's income statement and balance sheet.
+	* 2: Something has already been entered in the accounting records, but the amount needs to be divided up between two or more accounting periods.
+	
+  * Adjusting entries involve:
+	* Balance sheet account (Interest Payable, Prepaid Insurance, Accounts Receivable, etc.)
+	* Income statement account (Interest Expense, Insurance Expense, Service Revenues etc.)
+	* Related accounts: Allowance for doubtful accounts, accumulated depreciation - equipment, unearned revenue
+
+  * Accurals and Deferrals
+  	* Accurals: for scenario 1.
+	* Deferrals: for scenario 2.
+	* Examples: 
+		* Prepaid insurance after adjusting: The unexpired portion of the insurance premiums paid.
+		* Deferred Revenues or Unearned Fees: The fees received in advance which are not yet earned.
+	
 ## Financial Statements
  * Accrual basis of accounting will result in the following accounts being created:
     * Accounts Receivable
@@ -46,3 +63,4 @@
 				* Accounts Payable
 				* Accrued Expenses Payable
 				* Deferred Revenues
+				
