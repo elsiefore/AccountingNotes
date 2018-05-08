@@ -83,3 +83,10 @@
   * Statement of Stockholders' Equity
   * Statement of Cash Flows (SCF)
   	* Cash flow from operating activities, investing activities, financing activities.
+
+## Statement of Cash Flow
+
+## Inventory and Cost of Goods Sold
+  * Inventory: current assets that need to be closely monitored
+  * Cost of goods sold
+  * Cost flow assumptions: FIFO, LIFO, Average
