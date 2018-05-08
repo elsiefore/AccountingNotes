@@ -88,5 +88,16 @@
 
 ## Inventory and Cost of Goods Sold
   * Inventory: current assets that need to be closely monitored
-  * Cost of goods sold
-  * Cost flow assumptions: FIFO, LIFO, Average
+	* Cost of goods sold
+	* Cost flow assumptions: FIFO, LIFO, Average - can be different than the actual goods
+  * Inventory System: 
+	* Periodic inventory system
+	* Perpetual inventory system
+  * Methods of Estimating Inventory:
+  	* Gross Profit Method
+	* Retail Method
+	
+## Depreciation
+  * The transfer of a portion of the asset's cost from the balance sheet to the income statement during each year of the asset's life.
+  * Credit depreciation expense and debit accumulated depreciation
+  * Straight-line depreciation vs Accelerated depreciation
