@@ -101,3 +101,26 @@
   * The transfer of a portion of the asset's cost from the balance sheet to the income statement during each year of the asset's life.
   * Credit depreciation expense and debit accumulated depreciation
   * Straight-line depreciation vs Accelerated depreciation
+
+## Break-even Point
+  * Also named as: break-even point, break-even analysis, break-even formula, break-even point formula, break-even model, cost-volume-profit (CVP) analysis, or expense-volume-profit (EVP) analysis. 
+  * Expense Behavior
+	* Variable expenses: increases with sales increase
+	* Fixed expenses: do not increase when sales increase
+	* Mixed/Semi-variable expenses
+  * Contribution Margin
+  	* Contribution Margin = Revenues -  Variable Expenses
+	* Contribution Margin per Unit = Revenues per Unit - Variable Expenses per Unit
+  * Break-even Points in Units
+  * Desired Profit in Units
+  * Break-even Point in Sales Dollars
+  	* Contribution margin ratio = contribution margin / sales
+	* Break-even point in sales dollars = total fixed expenses / contribution margin ratio
+
+## Manufacturing Cost
+  * Manufacturing Overheard
+  	* Direct Material
+	* Direct Labor
+	* Manufacturing overhead
+  * Manufacturing Overhead
+  	* Selling, General and Administrative expenses(SG&A)
